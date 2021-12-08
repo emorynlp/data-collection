@@ -1,0 +1,126 @@
+{
+  "source": "https://www.wisesayings.com/javascript-quotes/",
+  "theme": "javascript",
+  "quotes": [
+    {
+      "cite": "Charlie Campbell",
+      "quote": "Javascript is the duct tape of the Internet."
+    },
+    {
+      "cite": "Dennis Ritchie",
+      "quote": "The kind of programming that C provides will probably remain similar absolutely or slowly decline in usage, but relatively, JavaScript or its variants, or XML, will continue to become more central."
+    },
+    {
+      "cite": "Larry Wall",
+      "quote": "Computer language design is just like a stroll in the park.  Jurassic Park, that is."
+    },
+    {
+      "cite": "Douglas Crockford",
+      "quote": "JavaScript is the only language that I'm aware of that people feel they don't need to learn before they start using it."
+    },
+    {
+      "cite": "Jeff Atwood",
+      "quote": "Any app that can be written in JavaScript, will eventually be written in JavaScript."
+    },
+    {
+      "cite": "David Flanagan",
+      "quote": "JavaScript is not a functional programming language like Lisp or Haskell, but the fact that JavaScript can manipulate functions as objects means that we can use functional programming techniques in JavaScript."
+    },
+    {
+      "cite": "Eric Freeman",
+      "quote": "JavaScript: Don't judge me by my bad parts, learn the good stuff and stick with that!"
+    },
+    {
+      "cite": "Dmitry Baranovskiy",
+      "quote": "JavaScript: This is a super-popular programming language primarily used in web apps. But it doesn't have much to do with Java besides the name. JavaScript runs a lot of the modern web, but it also catches a lot of flak for slowing browsers down and sometimes exposing users to security vulnerabilities."
+    },
+    {
+      "cite": "Douglas Crockford",
+      "quote": "JavaScript is the world's most misunderstood programming language."
+    },
+    {
+      "cite": "Ben Shapiro",
+      "quote": "Technically, web browsers can control what users see, and sites using Javascript can overwrite anything coming from the original authors. Browsers heavily utilize Javascript to create an interactive Internet; sites like YouTube, Facebook, and Gmail could be crippled without it."
+    },
+    {
+      "cite": "Larry Flon",
+      "quote": "There is no programming language\u00e2\u20ac\u201cno matter how structured\u00e2\u20ac\u201cthat will prevent programmers from making bad programs."
+    },
+    {
+      "cite": "Justin Meyer",
+      "quote": "The secret to building large apps is never build large apps. Break your applications into small pieces. Then, assemble those testable, bite-sized pieces into your big application."
+    },
+    {
+      "cite": "Alan Perlis",
+      "quote": "When someone says, \"I want a programming language in which I need only say what I want done,\" give him a lollipop."
+    },
+    {
+      "cite": "Derek Sivers",
+      "quote": "Programming languages are like girlfriends: The new one is better because *you* are better."
+    },
+    {
+      "cite": "Marjin Haverbeke",
+      "quote": "You should imagine variables as tentacles, rather than boxes. They do not contain values, they grasp them \u00e2\u20ac\u2022 two variables can refer to the same value."
+    },
+    {
+      "cite": "Kyle Simpson",
+      "quote": "JavaScript is as related to Java as Carnival is to Car."
+    },
+    {
+      "cite": "Alan Kay",
+      "quote": "Lisp isn't a language, it's a building material."
+    },
+    {
+      "cite": "Douglas Crockford",
+      "quote": "JS will be a real functional language."
+    },
+    {
+      "cite": "Nick Morgan",
+      "quote": "A language like Ruby is a toolbox with some really neat little tools that do their job really nicely. JavaScript is a leather sheath with a really really sharp knife inside. That knife can cut anything, and with it you can do anything. You can kill a bear. You can catch fish. You can whittle a piece of wood into a pony. It's even a toothpick."
+    },
+    {
+      "cite": "Jeremy Keith",
+      "quote": "Java is to JavaScript as ham is to hamster."
+    },
+    {
+      "cite": "Eric Freeman",
+      "quote": "JavaScript doesn't have a classical object-oriented model, where you create objects from classes. In fact, JavaScript doesn't have classes at all. In JavaScript, objects inherit behavior from other objects, which we call prototypal inheritance, or inheritance based on prototypes."
+    },
+    {
+      "cite": "pixadel",
+      "quote": "Fine, Java MIGHT be a good example of what a programming language should be like. But Java applications are good examples of what applications SHOULDN'T be like."
+    },
+    {
+      "cite": "Douglas Crockford",
+      "quote": "Fortunately, JavaScript has some extraordinarily good parts. In JavaScript, there is a beautiful, elegant, highly expressive language that is buried under a steaming pile of good intentions and blunders."
+    },
+    {
+      "cite": "Reg Braithwaite",
+      "quote": "The strength of JavaScript is that you can do anything. The weakness is that you will."
+    },
+    {
+      "cite": "Guido van Rossum",
+      "quote": "If you're talking about Java in particular, Python is about the best fit you can get amongst all the other languages. Yet the funny thing is, from a language point of view, JavaScript has a lot in common with Python, but it is sort of a restricted subset."
+    },
+    {
+      "cite": "Ted Dziuba",
+      "quote": "Node.js is a tumor on the programming community, in that not only is it completely braindead, but the people who use it go on to infect other people who can't think for themselves."
+    },
+    {
+      "cite": "Chris Heilmann",
+      "quote": "Java is to JavaScript what car is to carpet."
+    },
+    {
+      "cite": "Blake Ross",
+      "quote": "A Netscape engineer who shan't be named once passed a pointer to JavaScript, stored it as a string and later passed it back to C, killing 30"
+    },
+    {
+      "cite": "Dmitry Baranovskiy",
+      "quote": "JavaScript's global scope is like a public toilet. You can't avoid going in there, but try to limit your contact with surfaces when you do."
+    },
+    {
+      "cite": "Jed Schmidt",
+      "quote": "Go is the language JavaScript programmers retire to when they get old. Like the Florida of programming languages."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "source": "https://www.wisesayings.com/software-quotes/",
+  "theme": "software",
+  "quotes": [
+    {
+      "cite": "Fred Brooks",
+      "quote": "Adding manpower to a late software project makes it later."
+    },
+    {
+      "cite": "Anonymous",
+      "quote": "Software undergoes beta testing shortly before it's released. Beta is Latin for \u00e2\u20ac\u0153still doesn't work."
+    },
+    {
+      "cite": "Sukant Ratnakar",
+      "quote": "The human mind is an open network of complex softwares working together."
+    },
+    {
+      "cite": "Bill Gates",
+      "quote": "Software is a great combination between artistry and engineering."
+    },
+    {
+      "cite": "Steve McConnell",
+      "quote": "Trying to improve software quality by increasing the amount of testing is like trying to lose weight by weighing yourself more often. What you eat before you step onto the scale determines how much you will weigh, and the software-development techniques you use determine how many errors testing will find."
+    },
+    {
+      "cite": "Alan Kay",
+      "quote": "In softwawre systems, it is often the early bird that makes the worm."
+    },
+    {
+      "cite": "Steve Jobs",
+      "quote": "Computers themselves, and software yet to be developed, will revolutionize the way we learn."
+    },
+    {
+      "cite": "Jessica Gaston",
+      "quote": "One man's crappy software is another man's full time job."
+    },
+    {
+      "cite": "Bill Gates",
+      "quote": "Software is the magic thing whose importance only goes up over time."
+    },
+    {
+      "cite": "Anonymous",
+      "quote": "A user interface is like a joke. If you have to explain it, it's not that good."
+    },
+    {
+      "cite": "Grady Booch",
+      "quote": "The function of good software is to make the complex appear to be simple."
+    },
+    {
+      "cite": "Edward V Berard",
+      "quote": "Walking on water and developing software from a specification are easy if both are frozen."
+    },
+    {
+      "cite": "Margaret H. Hamilton",
+      "quote": "Software eventually and necessarily gained the same respect as any other discipline."
+    },
+    {
+      "cite": "Joel Spolsky",
+      "quote": "Good software, like wine, takes time."
+    },
+    {
+      "cite": "Nathan Myhrvold",
+      "quote": "Software is a gas; It expands to fill its container."
+    },
+    {
+      "cite": "Marc Andreessen",
+      "quote": "In short, software is eating the world."
+    },
+    {
+      "cite": "Richard M. Stallman",
+      "quote": "With software there are only two possibilites: either the users control the programme or the programme controls the users. If the programme controls the users, and the developer controls the programme, then the programme is an instrument of unjust power."
+    },
+    {
+      "cite": "Jeff Atwood",
+      "quote": "In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer's shifting idea of what their problem is."
+    },
+    {
+      "cite": "Max Kanat-Alexander",
+      "quote": "The purpose of software is to help people."
+    },
+    {
+      "cite": "Thiru Voonna",
+      "quote": "Every successful hardware has a software behind."
+    },
+    {
+      "cite": "Kevin O'Leary",
+      "quote": "Software is becoming no different than a videotape or a record album or a paperback book, and not all of us are ready for that change."
+    },
+    {
+      "cite": "Edsger Dijkstra",
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
+    },
+    {
+      "cite": "Ken Olsen",
+      "quote": "Software comes from heaven when you have good hardware."
+    },
+    {
+      "cite": "David Parnas",
+      "quote": "As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications."
+    },
+    {
+      "cite": "Robert C. Martin",
+      "quote": "It is not enough for code to work."
+    },
+    {
+      "cite": "Alan Perlis",
+      "quote": "There are two ways to write error-free programs; only the third one works."
+    },
+    {
+      "cite": "Dave Barry",
+      "quote": "Software is usually accompanied by documentation in the form of big fat scary manuals that nobody ever reads. In fact, for the past five years most of the manuals shipped with software products have actually been copies of Stephen King's The Stand with new covers pasted on."
+    },
+    {
+      "cite": "Bill Gates",
+      "quote": "The way to be successful in the software world is to come up with breakthrough software, and so whether it's Microsoft Office or Windows, its pushing that forward. New ideas, surprising the marketplace, so good engineering and good business are one in the same."
+    }
+  ]
+}

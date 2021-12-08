@@ -1,0 +1,26 @@
+{
+  "source": "https://www.wisesayings.com/python-quotes/",
+  "theme": "python",
+  "quotes": [
+    {
+      "cite": "Guido van Rossum",
+      "quote": "The joy of coding Python should be in seeing short, concise, readable classes that express a lot of action in a small amount of clear code, not in reams of trivial code that bores the reader to death."
+    },
+    {
+      "cite": "Guido van Rossum",
+      "quote": "Python is an experiment in how much freedom programmers need. Too much freedom and nobody can read another's code; too little and expressiveness is endangered."
+    },
+    {
+      "cite": "Bruce Eckel",
+      "quote": "Python is executable pseudocode. Perl is executable line noise."
+    },
+    {
+      "cite": "Dave Barry",
+      "quote": "Generally the pythons are better than anything else at killing."
+    },
+    {
+      "cite": "Maneka Gandhi",
+      "quote": "The skin of a python is no less precious to the snake than fur is to the fox."
+    }
+  ]
+}

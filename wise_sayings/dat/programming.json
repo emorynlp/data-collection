@@ -1,0 +1,126 @@
+{
+  "source": "https://www.wisesayings.com/programming-quotes/",
+  "theme": "programming",
+  "quotes": [
+    {
+      "cite": "Bertrand Meyer",
+      "quote": "Correctness is clearly the prime quality. If a system does not do what it is supposed to do, then everything else about it matters little."
+    },
+    {
+      "cite": "Paul Graham",
+      "quote": "A programming language is for thinking about programs, not for expressing programs you've already thought of. It should be a pencil, not a pen."
+    },
+    {
+      "cite": "Dave Thomas",
+      "quote": "All programming is maintenance programming, because you are rarely writing original code."
+    },
+    {
+      "cite": "Edsger Dijkstra",
+      "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in."
+    },
+    {
+      "cite": "Jazzwant",
+      "quote": "Programming is breaking of one big impossible task into several very small possible tasks."
+    },
+    {
+      "cite": "Harold Abelson",
+      "quote": "Programs must be written for people to read, and only incidentally for machines to execute."
+    },
+    {
+      "cite": "Edsger Dijkstra",
+      "quote": "If we wish to count lines of code, we should not regard them as lines produced but as lines spent."
+    },
+    {
+      "cite": "Niklaus Wirth",
+      "quote": "Our ultimate goal is extensible programming (EP). By this, we mean the construction of hierarchies of modules, each module adding new functionality to the system."
+    },
+    {
+      "cite": "Per Brinch Hansen",
+      "quote": "Programming is the art of writing essays in crystal clear prose and making them executable."
+    },
+    {
+      "cite": "Robert C. Martin",
+      "quote": "The proper use of comments is to compensate for our failure to express ourself in code."
+    },
+    {
+      "cite": "Alan Perlis",
+      "quote": "In programming, as in everything else, to be in error is to be reborn."
+    },
+    {
+      "cite": "Dennis Ritchie",
+      "quote": "The kind of programming that C provides will probably remain similar absolutely or slowly decline in usage, but relatively, JavaScript or its variants, or XML, will continue to become more central."
+    },
+    {
+      "cite": "Roman Harper",
+      "quote": "Programming is an explanatory activity."
+    },
+    {
+      "cite": "Dennis Ritchie",
+      "quote": "A language that doesn't have everything is actually easier to program in than some that do."
+    },
+    {
+      "cite": "Bjarne Stroustrup",
+      "quote": "C makes it easy to shoot yourself in the foot. C++ makes it harder, but when you do, it blows away your whole leg."
+    },
+    {
+      "cite": "Martin Golding",
+      "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live."
+    },
+    {
+      "cite": "Alan J. Perlis",
+      "quote": "A programming language is low level when its programs require attention to the irrelevant."
+    },
+    {
+      "cite": "Max Kanat-Alexander",
+      "quote": "Some of the best programming is done on paper, really. Putting it into the computer is just a minor detail."
+    },
+    {
+      "cite": "Tom Cargill",
+      "quote": "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time."
+    },
+    {
+      "cite": "Alan J. Perlis",
+      "quote": "A language that doesn't affect the way you think about programming is not worth knowing."
+    },
+    {
+      "cite": "Linus",
+      "quote": "And don't ever make the mistake that you can design something better than what you get from ruthless massively parallel trial-and-error with a feedback cycle. That's giving your intelligence much too much credit."
+    },
+    {
+      "cite": "Brian W. Kernighan",
+      "quote": "Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it."
+    },
+    {
+      "cite": "Brian Kernighan",
+      "quote": "Controlling complexity is the essence of computer programming."
+    },
+    {
+      "cite": "Niklaus Wirth",
+      "quote": "Programming is usually taught by examples."
+    },
+    {
+      "cite": "Brian Goetz",
+      "quote": "Whenever more than one thread accesses a given state variable, and one of them might write to it, they all must coordinate their access to it using synchronization."
+    },
+    {
+      "cite": "Hayley Mills",
+      "quote": "Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it takes."
+    },
+    {
+      "cite": "Rick Cook",
+      "quote": "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to build bigger and better idiots. So far, the universe is winning."
+    },
+    {
+      "cite": "Waldi Ravens",
+      "quote": "A C program is like a fast dance on a newly waxed dance floor by people carrying razors."
+    },
+    {
+      "cite": "Edsger Dijkstra",
+      "quote": "Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians."
+    },
+    {
+      "cite": "Randy Gage",
+      "quote": "You are being programmed all day, every day. You can't stop it, but you can determine if the programming is positive or negative."
+    }
+  ]
+}

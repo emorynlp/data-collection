@@ -1,0 +1,86 @@
+{
+  "source": "https://www.wisesayings.com/blockchain-quotes/",
+  "theme": "blockchain",
+  "quotes": [
+    {
+      "cite": "Olawale Daniel",
+      "quote": "Bitcoin and other cryptocurrencies are dependent on blockchain - the underlying distributed ledger that guarantees tamper-resistant permanent transactions - to do business. But that's not all blockchain does, or has the potential to do."
+    },
+    {
+      "cite": "Tom Golway",
+      "quote": "Blockchain by itself isn't transformational, however it is foundational. As a foundational innovation, Blockchain's value can only be fully realized when the business process is transformed to take advantage of its capabilities, leading to ROI for existing business models and the ability to create value through new ones."
+    },
+    {
+      "cite": "Abhijit Naskar",
+      "quote": "Blockchain itself is not dangerous, but if we start using decentralized blockchain as a complete substitute for our traditional transaction methods, then I am afraid, it would destroy the very human foundation of our financial system."
+    },
+    {
+      "cite": "Vitalik Buterin",
+      "quote": "The main advantage of blockchain technology is supposed to be that it's more secure, but new technologies are generally hard for people to trust, and this paradox can't really be avoided."
+    },
+    {
+      "cite": "William Mougayar",
+      "quote": "In the blockchain world, each user can and should own their data, and 'central' players are less vulnerable to data losses and breaches."
+    },
+    {
+      "cite": "William Mougayar",
+      "quote": "The blockchain symbolizes a shift in power from the centers to the edges of the networks."
+    },
+    {
+      "cite": "Marc Kenisberg",
+      "quote": "Blockchain is the tech. Bitcoin is merely the first mainstream manifestation of its potential."
+    },
+    {
+      "cite": "Adam Draper",
+      "quote": "The blockchain does one thing: It replaces third-party trust with mathematical proof that something happened."
+    },
+    {
+      "cite": "Balaji Srinivasan",
+      "quote": "The Internet is programmable information. The blockchain is programmable scarcity."
+    },
+    {
+      "cite": "Bob Grifeld",
+      "quote": "Blockchain. The biggest opportunity set we can think of over the next decade."
+    },
+    {
+      "cite": "Rahul Guhathakurta",
+      "quote": "The blockchain is all about bringing in transparency and efficiency into the existing systems which are running the upstream and downstream supply chains and making them more proactive and predictive."
+    },
+    {
+      "cite": "Tom Golway",
+      "quote": "Without transforming the business process, Blockchain only offers the potential of incremental value in reducing TCO."
+    },
+    {
+      "cite": "Abhijit Naskar",
+      "quote": "Centralized blockchain can be a great boon to the society, especially in the developing parts of the world, whereas decentralized blockchain will only cause chaos and destruction."
+    },
+    {
+      "cite": "Kenneth C. Griffin",
+      "quote": "Blockchain's a very interesting technology that will have some very profound applications for society over the years to come."
+    },
+    {
+      "cite": "Naval Ravikant",
+      "quote": "The ledger, the distributed database - it's called a Blockchain - is held in the cloud by all the parties involved. It can't be broken by any of them. It's cryptographically too strong. You would have to compromise the entire network to take over Bitcoin."
+    },
+    {
+      "cite": "William Mougayar",
+      "quote": "The blockchain cannot be described just as a revolution. It is a tsunami-like phenomenon, slowly advancing and gradually enveloping everything along its way by the force of its progression."
+    },
+    {
+      "cite": "Vitalik Buterin",
+      "quote": "Blockchain software companies may end up being amalgamated into existing software giants, at which point blockchain patents will just become part of the existing patent war."
+    },
+    {
+      "cite": "William Mougayar",
+      "quote": "The blockchain is an asset normalization platform that can enable a new liquidity in transactions, hence creating large networks of usage and value effects with benefits in speed, cost, quality, or outcomes."
+    },
+    {
+      "cite": "William Mougayar",
+      "quote": "You have to think of the blockchain as a new utility. It is a new utility network for moving value, moving assets."
+    },
+    {
+      "cite": "Don &amp; Alex Tapscott",
+      "quote": "The blockchain is an incorruptible digital ledger of economic transactions that can be programmed to record not just financial transactions but virtually everything of value."
+    }
+  ]
+}
